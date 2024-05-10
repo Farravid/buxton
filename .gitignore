@@ -1,3 +1,6 @@
+# Rider
+.idea/
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -72,3 +75,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Rider Link
+Plugins/Developer/RiderLink/
